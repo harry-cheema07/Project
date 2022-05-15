@@ -1,0 +1,23 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 2rem;
+    padding: 0.5rem;
+    background-color: black;
+    color: white;
+}
+.header div{
+    margin:0;
+    padding: 0;
+}
+
+.links a{
+    padding-right: 2rem;
+    color: white;
+    text-decoration: none;
+}
+.logo{
+    display: flex;
+    align-items: center;
+}
